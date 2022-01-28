@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### KRAMIK NAKRANI
-I am in Computer Engineering. In which I am good at web development, Programming(C,C++,JAVA,Python),Machine Learning and data analytics.I am also intersted in cyber security,in which i am learning more.
+I am in Computer Engineering. In which I am good at Android ans Web development, Programming(C,C++,JAVA,Python) and Data Science.I am also intersted in Machine Learning,in which i am learning more.
 
 ## My Profiles 
 <!-- **anujvaghani0/anujvaghani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
