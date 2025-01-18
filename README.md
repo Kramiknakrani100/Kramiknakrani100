@@ -4,7 +4,7 @@ I am an AI Engineer with 2.5 years of experience in building scalable AI solutio
 
 ## My Profiles  
 <div align="center">
-  <a href="https://www.linkedin.com/in/kramiknakrani100/">
+  <a href="https://www.linkedin.com/in/kramik-nakrani-62a9071a8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/KramikN">
