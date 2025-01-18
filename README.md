@@ -33,9 +33,23 @@ I am an AI Engineer with 2.5 years of experience in building scalable AI solutio
 </div>
 
 ## My Experience  
+### **Freelancer (Upwork, Fiverr, LinkedIn)**  
+**11/2024 - Present**  
+- **AI Email Writer**: Developed an AI-powered email writing tool to automate personalized email generation.  
+- **Fine-Tuning LLMs**: Fine-tuned OpenAI and Llama models for specific use cases, improving model performance and accuracy.  
+- **POC Development for LLM-Powered Customer Education Chatbot**: Built a proof-of-concept chatbot to educate customers using LLMs.  
+- **High-Quality AI Report Generation**: Automated the generation of high-quality reports using advanced LLMs like Llama-3.1.  
+- **Llama-3.1 Deployment on AWS**: Deployed and optimized Llama-3.1 on AWS for scalable AI solutions.  
+- **Custom LLM API for Support Tickets**: Created APIs using custom LLM models to automate support ticket responses.  
+- **CV Parser - Google Sheet**: Developed a CV parsing tool integrated with Google Sheets for efficient data extraction.  
+- **Invoice PDF Extraction**: Built a tool to extract key information from invoices using NLP and PDF parsing techniques.  
+- **Bank Statement Summarization with Llama**: Utilized Llama models to summarize bank statements for financial analysis.  
+- **Elderly Care AI Chatbot**: Integrated an AI chatbot into a simple Android app for elderly care assistance.  
+- **PDF Extraction Tool**: Created a tool to extract and process data from PDFs for various business use cases.  
+
 ### **AI Engineer**  
 **Avatari Infotech**  
-**06/2023 - Present**  
+**06/2023 - 11/2024**  
 - Developed a healthcare chatbot using OpenAI and Claude 3.5, achieving 97% accuracy in lens recommendations.  
 - Automated the generation of 100+ PDF reports using open-source LLMs like Llama 3.1 and Mistral.  
 - Built a delivery date prediction system using ML algorithms like LightGBM and XGBoost, achieving 85% accuracy.  
@@ -45,7 +59,7 @@ I am an AI Engineer with 2.5 years of experience in building scalable AI solutio
 **Devotee Infotech Pvt. Ltd.**  
 **01/2023 - 06/2023**  
 - Improved data accuracy by cleaning, modeling, and visualizing data.  
-- Built predictive models using regression and classification algorithms.  
+- Built predictive models using regression and classification algorithms.
 
 ## My Projects  
 ### **Healthcare Chatbot**  
