@@ -1,90 +1,70 @@
-# Hi there 👋  
-## KRAMIK NAKRANI  
-I am an AI Engineer with 2.5 years of experience in building scalable AI solutions, leveraging Large Language Models (LLMs), and developing data-driven applications. My expertise lies in Natural Language Processing (NLP), Machine Learning, and Deep Learning. I am passionate about solving complex problems using AI and continuously learning to stay updated with the latest advancements in the field.
+## Kramik Nakrani
 
-## My Profiles  
+Senior Data Scientist and Generative AI tech lead in Surat, India. I've spent the last 6 years building machine learning, NLP and LLM systems that run in production, and lately most of that work is RAG and agentic AI on AWS.
+
+Open to remote roles worldwide: full-time, contract or part-time.
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/kramik-nakrani-62a9071a8">
+  <a href="https://www.linkedin.com/in/kramiknakrani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/KramikN">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="mailto:kramiknakrani100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.facebook.com/kramik.nakrani">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="https://twitter.com/KramikN">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </div>
 
-## My Skills 🎓  
+### What I work with
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge" alt="LlamaIndex">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-## My Experience  
-### **Freelancer (Upwork, Fiverr, LinkedIn)**  
-**11/2024 - Present**  
-- **AI Email Writer**: Developed an AI-powered email writing tool to automate personalized email generation.  
-- **Fine-Tuning LLMs**: Fine-tuned OpenAI and Llama models for specific use cases, improving model performance and accuracy.  
-- **POC Development for LLM-Powered Customer Education Chatbot**: Built a proof-of-concept chatbot to educate customers using LLMs.  
-- **High-Quality AI Report Generation**: Automated the generation of high-quality reports using advanced LLMs like Llama-3.1.  
-- **Llama-3.1 Deployment on AWS**: Deployed and optimized Llama-3.1 on AWS for scalable AI solutions.  
-- **Custom LLM API for Support Tickets**: Created APIs using custom LLM models to automate support ticket responses.  
-- **CV Parser - Google Sheet**: Developed a CV parsing tool integrated with Google Sheets for efficient data extraction.  
-- **Invoice PDF Extraction**: Built a tool to extract key information from invoices using NLP and PDF parsing techniques.  
-- **Bank Statement Summarization with Llama**: Utilized Llama models to summarize bank statements for financial analysis.  
-- **Elderly Care AI Chatbot**: Integrated an AI chatbot into a simple Android app for elderly care assistance.  
-- **PDF Extraction Tool**: Created a tool to extract and process data from PDFs for various business use cases.  
+- LLMs and agents: LangChain, LlamaIndex, GPT-4o, Claude, Llama 3.1, fine-tuning, prompt engineering, MCP servers.
+- Retrieval: FAISS, Pinecone, Qdrant, Milvus, embeddings, OCR and document ingestion.
+- ML and NLP: classification, regression, clustering, time series, NER, BERT, recommendation systems, computer vision (OpenCV, MediaPipe, YOLO, Stable Diffusion).
 
-### **AI Engineer**  
-**Avatari Infotech**  
-**06/2023 - 11/2024**  
-- Developed a healthcare chatbot using OpenAI and Claude 3.5, achieving 97% accuracy in lens recommendations.  
-- Automated the generation of 100+ PDF reports using open-source LLMs like Llama 3.1 and Mistral.  
-- Built a delivery date prediction system using ML algorithms like LightGBM and XGBoost, achieving 85% accuracy.  
-- Designed a CV parsing system using SpaCy for Named Entity Recognition (NER).  
+### Experience
 
-### **Data Scientist Intern**  
-**Devotee Infotech Pvt. Ltd.**  
-**01/2023 - 06/2023**  
-- Improved data accuracy by cleaning, modeling, and visualizing data.  
-- Built predictive models using regression and classification algorithms.
+**Senior Data Scientist (Generative AI Tech Lead), Talisman Solutions Inc**, 01/2024 - present, remote
+- Architected AutoFi, an agentic AI system on GPT-4o and LangChain that runs financial workflows on an L1 blockchain.
+- Built Supra AI, a citation-based RAG assistant for developers, with its ingestion and embedding pipeline on AWS.
+- Built Recruiter AI, an agent that screens resumes and matches candidates. It cut recruiter screening time by more than 50%.
+- Built an MCP server and agents for crypto market data, technical indicators and Prophet forecasts.
+- Trained GAN and Stable Diffusion models for image generation, and fine-tuned GPT models to simulate patients for medical training.
 
-## My Projects  
-### **Healthcare Chatbot**  
-- Developed a chatbot to recommend multifocal and toric lenses based on patient lifestyle and preferences.  
-- Utilized OpenAI and Claude 3.5 for 97% accurate recommendations.  
-- Built backend with FastAPI and DynamoDB, and implemented OAuth2 for secure authentication.  
+**Senior Data Scientist, GritWorks AI**, 06/2022 - 12/2023, remote
+- Led a RAG chatbot for the Government of Jharkhand over 1M+ multilingual PDFs, with 95% answer accuracy in production.
+- Deployed in-house LLMs on private AWS infrastructure so government data stayed in a private environment.
 
-### **NL2SQL Chatbot**  
-- Built a chatbot using Langchain and OpenAI to convert natural language queries into SQL.  
-- Integrated with RDS for data retrieval and Streamlit for dynamic data visualization.  
+**Data Scientist, Avatari Infotech**, 07/2021 - 06/2022, Surat
+- Built cv-predict (CV to job matching, 80% accuracy) and Jd-suggest (custom NER model, 83% accuracy).
+- Grouped job titles with K-Means, hierarchical clustering and DBSCAN at 90% accuracy, and fine-tuned DistilBERT.
 
-### **Bike Sharing Demand Prediction**  
-- Developed a model to predict bike-sharing demand using Linear Regression, XGBoost, and LightGBM.  
+**Data Scientist Intern, Devotee Infotech**, 01/2021 - 06/2021, Surat
 
-### **Telegram Bot**  
-- Built a Telegram bot to automate tasks and provide real-time information retrieval using Python and Telegram API.  
+### Projects
 
-### **Twitter Bot**  
-- Developed a Twitter bot to automate tweets, retweets, and interactions using Twitter API and Python.  
+- **Healthcare lens recommendation chatbot** (OpenAI, Claude 3.5, FastAPI, DynamoDB): 97% of recommendations correct.
+- **NL2SQL chatbot** (LangChain, OpenAI, Streamlit, RDS): turns plain-English questions into SQL and charts the results.
+- **AI customer support** ([repo](https://github.com/Kramiknakrani100/AI-Customer-Support), TypeScript).
 
-### **Customer Chatbot**  
-- Created a customer support chatbot using OpenAI and fine-tuned it to handle customer queries efficiently.  
+Most of my production code belongs to employers and clients, so this profile only shows a small part of what I build.
 
-### **Fine-Tuning Base Project**  
-- Fine-tuned OpenAI and Llama models for specific use cases, improving model performance and accuracy.  
-
-## My GitHub Stats  
-<a href="https://github.com/Kramiknakrani100/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kramiknakrani100&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kramiknakrani100's github stats" /></a> | <a href="https://github.com/Kramiknakrani100/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kramiknakrani100&layout=compact&theme=buefy&hide_border=true" /></a> |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kramiknakrani100&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GitHub stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kramiknakrani100&layout=compact&theme=buefy&hide_border=true" alt="Top languages" height="150">
+</div>
